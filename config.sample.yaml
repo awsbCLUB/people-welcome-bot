@@ -1,0 +1,52 @@
+debug: false
+clientId: "clientId"
+guildId: "guildId"
+token: "token"
+
+notifyChannels:
+  guildMemberCount: "channelId"
+  welcome: "channelId"
+  welcomePic: "channelId"
+  moderator: "channelId"
+  bot: "channelId"
+  error: "channelId"
+
+rulesChannel:
+  - "channelId"
+  - "channelId"
+
+rulesMessage:
+  - "messageId"
+  - "messageId"
+
+rulesAgreeEmoji:
+  - "👀"
+  - "👍"
+  - "💯"
+
+welcomeLayers:
+  # put image files into ./assets/images
+  # put font files into ./assets/fonts
+  base: "welcome.jpg"
+  avatar:
+    x: 543
+    y: 75
+    radius: 128
+  userTag:
+    font: "Exo2-Regular.ttf"
+    x: 64
+    y: 198
+    fontSize: 39
+    color: "#E4E4E7"
+  userId:
+    font: "JetBrainsMono-ExtraLight.ttf"
+    x: 64
+    y: 376
+    fontSize: 19
+    color: "#A1A1AA"
+  timestamp:
+    font: "JetBrainsMono-ExtraLight.ttf"
+    x: 453
+    y: 376
+    fontSize: 19
+    color: "#A1A1AA"
