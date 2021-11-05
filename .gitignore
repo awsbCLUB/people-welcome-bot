@@ -1,3 +1,13 @@
+config.yaml
+debug/
+
+assets/fonts/*
+assets/images/*
+!assets/fonts/.gitkeep
+!assets/images/.gitkeep
+
+.idea/
+
 # Logs
 logs
 *.log
