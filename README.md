@@ -18,6 +18,19 @@ The **Welcome BOT** can:
     - and of course, if you have a VPS server, you can make it working 7 x 24 hrs avoid instability caused by network
       shakes or occasional power outages in your home or office environment...
 
+## Previews
+
+### Locked role
+
+![Locked Role](https://github.com/HyperDeFiProtocol/discord-welcome-bot/blob/main/docs/locked.png?raw=true)
+
+### Unlocked role
+
+For us, it called `HyperFAM`
+
+![Unlocked Role](https://github.com/HyperDeFiProtocol/discord-welcome-bot/blob/main/docs/unlocked.png?raw=true)
+
+
 ## How to use it?
 
 #### Preparation
