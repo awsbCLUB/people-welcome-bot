@@ -47,10 +47,6 @@ const onReady = async function () {
 }
 client.once('ready', onReady);
 
-// client.on('error', console.error)
-// client.on('warn', console.warn)
-
-
 // export
 module.exports = {
     config: config,
