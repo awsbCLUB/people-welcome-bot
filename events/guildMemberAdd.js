@@ -10,7 +10,7 @@ const execute = async function (guildMember) {
         await countMembers()
 
         // notify
-        await sendMessage('moderator', `🍄 ${builders.userMention(guildMember.user.id)} ${builders.inlineCode('JOINED')}`)
+        // await sendMessage('moderator', `🍄 ${builders.userMention(guildMember.user.id)} ${builders.inlineCode('JOINED')}`)
 
         // welcome pic
         await notifyWelcomePic(guildMember.user)
